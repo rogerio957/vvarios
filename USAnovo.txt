@@ -1,0 +1,254 @@
+#EXTM3U
+#EXTINF:-1,US: A and E
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/149136
+#EXTINF:-1,US: Adult Swim
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/135310
+#EXTINF:-1,US: AMC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/191692
+#EXTINF:-1,US: American Heroes
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32229
+#EXTINF:-1,US: Animal Planet
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/149198
+#EXTINF:-1,US: AWE
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/149143
+#EXTINF:-1,US: AXS TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/191720
+#EXTINF:-1,US: Baby TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208670
+#EXTINF:-1,US: BBC America
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32237
+#EXTINF:-1,US: Big Ten Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32240
+#EXTINF:-1,US: Bloomberg
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208671
+#EXTINF:-1,US: Boomerang
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32158
+#EXTINF:-1,US: Bravo
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208672
+#EXTINF:-1,US: Buzzr
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208673
+#EXTINF:-1,US: C-Span
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205817
+#EXTINF:-1,US: Cartoon Network East
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159863
+#EXTINF:-1,US: CBS News
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/68035
+#EXTINF:-1,US: Cheddar News
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208676
+#EXTINF:-1,US: CMC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208679
+#EXTINF:-1,US: CMT HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32204
+#EXTINF:-1,US: CNBC World
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208680
+#EXTINF:-1,US: CNN
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/69284
+#EXTINF:-1,US: Comedy Central
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32195
+#EXTINF:-1,US: Comet TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208681
+#EXTINF:-1,US: Court TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208684
+#EXTINF:-1,US: CW
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/191732
+#EXTINF:-1,US: Destination America
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208686
+#EXTINF:-1,US: Discovery Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32344
+#EXTINF:-1,US: Discovery Family
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159811
+#EXTINF:-1,US: Discovery Life
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/68043
+#EXTINF:-1,US: Discovery Science
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32348
+#EXTINF:-1,US: E! Entertainment
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208688
+#EXTINF:-1,US: Epix Hits
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208689
+#EXTINF:-1,US: Epix 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208690
+#EXTINF:-1,US: Epix Drive In
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208691
+#EXTINF:-1,US: Food Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208694
+#EXTINF:-1,US: Freeform Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32208
+#EXTINF:-1,US: Fuse
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208697
+#EXTINF:-1,US: FX
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208698
+#EXTINF:-1,US: FXX
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32309
+#EXTINF:-1,US: FYI
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32310
+#EXTINF:-1,US: Game Show Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208699
+#EXTINF:-1,US: Great American Country
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208702
+#EXTINF:-1,US: Grit TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/191706
+#EXTINF:-1,US: H2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208703
+#EXTINF:-1,US: Hallmark Drama
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32127
+#EXTINF:-1,US: Hallmark Movies Mysteries
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32128
+#EXTINF:-1,US: HBO 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32130
+#EXTINF:-1,US: HBO Comedy
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32132
+#EXTINF:-1,US: HBO
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32129
+#EXTINF:-1,US: HBO Family
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32135
+#EXTINF:-1,US: HBO Latino
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16012
+#EXTINF:-1,US: HBO Signature
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/27728
+#EXTINF:-1,US: HBO Zone
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/65111
+#EXTINF:-1,US: Heroes And Icons
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208704
+#EXTINF:-1,US: HGTV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32315
+#EXTINF:-1,US: History Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208705
+#EXTINF:-1,US: HLN
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32317
+#EXTINF:-1,US: Discovery Investigation
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159853
+#EXTINF:-1,US: IFC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208708
+#EXTINF:-1,US: Ion TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208711
+#EXTINF:-1,US: LifeTime
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208714
+#EXTINF:-1,US: Lifetime Movie Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159794
+#EXTINF:-1,US: Logo
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208715
+#EXTINF:-1,US: Longhorn Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/28405
+#EXTINF:-1,US: Me TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208718
+#EXTINF:-1,US: Motor Trend
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32332
+#EXTINF:-1,US: MSNBC HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32201
+#EXTINF:-1,US: National Geographic
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159745
+#EXTINF:-1,US: Nat Geo Wild
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32340
+#EXTINF:-1,US: NBCSN
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208720
+#EXTINF:-1,US: NESN Plus
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/68062
+#EXTINF:-1,US: Newsmax TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208725
+#EXTINF:-1,US: NewsY
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208727
+#EXTINF:-1,US: NFL Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43496
+#EXTINF:-1,US: NICK JR
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159756
+#EXTINF:-1,US: Nickelodeon
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32166
+#EXTINF:-1,US: Nicktoons
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32167
+#EXTINF:-1,US: One America News
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208729
+#EXTINF:-1,US: Outdoor Channel HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32364
+#EXTINF:-1,US: Outside TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208730
+#EXTINF:-1,US: Ovation
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208731
+#EXTINF:-1,US: OWN HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32367
+#EXTINF:-1,US: Paramount Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208732
+#EXTINF:-1,US: PBS Kids
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43497
+#EXTINF:-1,US: POP
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32377
+#EXTINF:-1,US: Revolt
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208741
+#EXTINF:-1,US: RFD TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208742
+#EXTINF:-1,US: SEC Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208744
+#EXTINF:-1,US: Showtime West
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/135311
+#EXTINF:-1,US: Showtime 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/135312
+#EXTINF:-1,US: Showtime Extreme
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32153
+#EXTINF:-1,US: Showtime Family Zone
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/158682
+#EXTINF:-1,US: Showtime Next
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32467
+#EXTINF:-1,US: Showtime Showcase
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32468
+#EXTINF:-1,US: Showtime Women
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159873
+#EXTINF:-1,US: Smithsonian
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208745
+#EXTINF:-1,US: Stadium HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16263
+#EXTINF:-1,US: Starz Cinema
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32137
+#EXTINF:-1,US: Starz Comedy
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32138
+#EXTINF:-1,US: Starz East
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/39453
+#EXTINF:-1,US: Starz Edge
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/79697
+#EXTINF:-1,US: Starz Encore
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32149
+#EXTINF:-1,US: Starz Encore Action
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159925
+#EXTINF:-1,US: Starz Encore Classic
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32141
+#EXTINF:-1,US: Starz Encore Family
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159766
+#EXTINF:-1,US: Starz Encore Suspense
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32143
+#EXTINF:-1,US: Starz Encore Westerns
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32140
+#EXTINF:-1,US: Starz West
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159773
+#EXTINF:-1,US: Sundance TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205831
+#EXTINF:-1,US: SyFy HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32402
+#EXTINF:-1,US: TBS
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205834
+#EXTINF:-1,US: TCM
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205835
+#EXTINF:-1,US: Discovery Velocity
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205836
+#EXTINF:-1,US: TLC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205837
+#EXTINF:-1,US: TNT
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205839
+#EXTINF:-1,US: Travel Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32349
+#EXTINF:-1,US: Tru TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205840
+#EXTINF:-1,US: TV Land
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32412
+#EXTINF:-1,US: TVG Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205842
+#EXTINF:-1,US: Unimas
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/149132
+#EXTINF:-1,US: Universal Kids
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32168
+#EXTINF:-1,US: VH1
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205843
+#EXTINF:-1,US: Viceland HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/32207
+#EXTINF:-1,US: WE TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205844
+#EXTINF:-1,US: Weather Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/208746
+
